@@ -1,0 +1,205 @@
+.branch-permissions-page {
+  direction: rtl;
+  text-align: right;
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 0.5rem 1.25rem 2rem;
+  box-sizing: border-box;
+}
+
+.branch-permissions-page .create-product-layout {
+  grid-template-columns: 1fr;
+}
+
+.branch-permissions-page .create-product-header h1 {
+  font-family: var(--font-fa-display);
+  font-weight: 700;
+}
+
+.branch-permissions-page .create-product-form-section h2 {
+  font-family: var(--font-fa-display);
+  font-weight: 700;
+  margin-bottom: 1.25rem;
+}
+
+.branch-permissions-dropdowns {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.branch-permissions-field {
+  display: block;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text-main);
+}
+
+.branch-permissions-field select {
+  display: block;
+  width: 100%;
+  margin-top: 0.4rem;
+  padding: 0.65rem 0.85rem;
+  font-size: 1rem;
+  font-family: inherit;
+  border: 1px solid var(--input-border);
+  border-radius: 10px;
+  background: var(--input-bg);
+  color: var(--text-main);
+  box-sizing: border-box;
+  box-shadow: inset 0 1px 2px rgba(18, 48, 36, 0.06);
+  cursor: pointer;
+  transition: border-color 0.15s ease, background-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.branch-permissions-field select:focus {
+  outline: none;
+  border-color: var(--primary);
+  background: var(--input-focus-bg);
+  box-shadow: inset 0 1px 2px rgba(18, 48, 36, 0.04), 0 0 0 2px rgba(0, 167, 111, 0.18);
+}
+
+:root[data-theme="dark"] .branch-permissions-field select {
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25);
+}
+
+:root[data-theme="dark"] .branch-permissions-field select:focus {
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2), 0 0 0 2px rgba(34, 197, 94, 0.22);
+}
+
+.branch-permissions-access {
+  margin-bottom: 2rem;
+  padding: 1.25rem 1.35rem;
+  background: var(--surface);
+  border: 1px solid var(--input-border);
+  border-radius: 12px;
+}
+
+.branch-permissions-checkbox-row {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  margin: 0 0 1.25rem;
+  padding: 0.75rem 0.9rem;
+  border-radius: 10px;
+  background: var(--card-bg);
+  border: 1px solid var(--input-border);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text-main);
+  cursor: pointer;
+  box-sizing: border-box;
+}
+
+.branch-permissions-checkbox-row:hover {
+  border-color: var(--primary);
+  background: var(--primary-soft);
+}
+
+.branch-permissions-checkbox-row input[type="checkbox"] {
+  width: 1.1rem;
+  height: 1.1rem;
+  margin: 0;
+  flex-shrink: 0;
+  accent-color: var(--primary);
+  cursor: pointer;
+}
+
+.branch-permissions-list-heading {
+  margin: 0 0 0.75rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text-main);
+}
+
+.branch-permissions-branch-ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.branch-permissions-branch-item {
+  margin: 0;
+  padding: 0;
+}
+
+.branch-permissions-branch-label {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  margin: 0;
+  padding: 0.65rem 0.85rem;
+  border-radius: 10px;
+  background: var(--card-bg);
+  border: 1px solid var(--input-border);
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--text-main);
+  cursor: pointer;
+  transition: border-color 0.15s ease, background-color 0.15s ease;
+}
+
+.branch-permissions-branch-label:hover {
+  border-color: var(--primary);
+  background: var(--primary-soft);
+}
+
+.branch-permissions-branch-label input[type="checkbox"] {
+  width: 1.05rem;
+  height: 1.05rem;
+  margin: 0;
+  flex-shrink: 0;
+  accent-color: var(--primary);
+  cursor: pointer;
+}
+
+.branch-permissions-footer {
+  margin-top: 0.25rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--input-border);
+}
+
+.branch-permissions-footer .form-error,
+.branch-permissions-footer .form-success {
+  margin-bottom: 0.75rem;
+}
+
+.branch-permissions-save {
+  width: 100%;
+  margin-top: 0.35rem;
+  padding: 0.75rem 1.2rem;
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: inherit;
+  cursor: pointer;
+  border-radius: 999px;
+  border: none;
+  background: var(--primary);
+  color: var(--button-text);
+  box-shadow: 0 10px 25px rgba(0, 167, 111, 0.25);
+  transition: background-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.branch-permissions-save:hover:not(:disabled) {
+  background: var(--primary-dark);
+  box-shadow: 0 12px 28px rgba(0, 132, 90, 0.3);
+}
+
+.branch-permissions-save:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.branch-permissions-page .muted {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+:root[data-theme="dark"] .branch-permissions-checkbox-row,
+:root[data-theme="dark"] .branch-permissions-branch-label {
+  background: var(--input-bg);
+}

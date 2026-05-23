@@ -1,0 +1,13 @@
+# Monorepo root — see also backend/.gitignore and frontend/.gitignore
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+backend/.env
+frontend/.env
+**/__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/

@@ -1,0 +1,21 @@
+﻿# CustomerClub kiosk API — Python 3.11+
+# Install: pip install -r requirements.txt
+
+# Core
+Django==5.0.7
+pytz==2025.2
+python-dotenv==1.0.1
+
+# Database
+psycopg2-binary==2.9.10
+
+# REST API
+djangorestframework==3.15.2
+djangorestframework-simplejwt==5.5.1
+django-cors-headers==4.7.0
+drf-spectacular==0.27.2  # optional at runtime: set ENABLE_OPENAPI=true
+
+# HTTP / media / export
+requests==2.32.3
+Pillow==10.4.0
+openpyxl==3.1.5

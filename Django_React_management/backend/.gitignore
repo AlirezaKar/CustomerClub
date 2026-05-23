@@ -1,0 +1,16 @@
+# Environment (keep .env.example, ignore .env)
+.env
+__pycache__
+*.pyc
+*.pyo
+.venv
+venv
+env
+# User uploads (product images, profile photos). Keep folder in repo, not files.
+media/*
+!media/.gitkeep
+staticfiles/
+*.sqlite3
+db.sqlite3
+*.log
+.Python

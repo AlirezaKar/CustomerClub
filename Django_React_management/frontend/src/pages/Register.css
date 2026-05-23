@@ -1,0 +1,116 @@
+.register-page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2.5rem 1.5rem;
+  box-sizing: border-box;
+  direction: rtl;
+  color: var(--text-main);
+}
+
+.register-card {
+  width: 100%;
+  max-width: 720px;
+  margin: 0 auto;
+  background: var(--card-bg);
+  border-radius: var(--card-radius);
+  padding: 2.5rem 3rem;
+  box-shadow: var(--shadow-soft);
+}
+
+.register-card h1 {
+  margin: 0;
+  font-size: 1.7rem;
+}
+
+.register-subtitle {
+  color: var(--text-muted);
+  margin: 0.25rem 0 1.75rem;
+  font-size: 0.98rem;
+}
+
+.register-form label {
+  display: block;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+  color: var(--text-main);
+}
+
+.register-form input,
+.register-form .password-input-wrap .password-input {
+  width: 100%;
+  margin-top: 0.35rem;
+  padding: 0.8rem 1rem;
+  font-size: 1rem;
+  border: 1px solid var(--input-border);
+  border-radius: 999px;
+  background: var(--input-bg);
+  color: var(--text-main);
+  box-sizing: border-box;
+}
+
+.register-form .password-input-wrap {
+  margin-top: 0.35rem;
+}
+
+.register-form input:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 1px rgba(0, 167, 111, 0.25);
+  background: var(--input-focus-bg);
+}
+
+.register-error {
+  color: #e84e4e;
+  font-size: 0.9rem;
+  margin: 0 0 1rem;
+}
+
+.register-form button {
+  width: 100%;
+  margin-top: 0.75rem;
+}
+
+.register-login-link {
+  margin-top: 1.25rem;
+  text-align: center;
+  font-size: 0.95rem;
+  color: var(--text-muted);
+}
+
+.register-login-link a {
+  color: var(--primary);
+  text-decoration: none;
+  margin-right: 0.35rem;
+}
+
+.register-login-link a:hover {
+  color: var(--primary-dark);
+  text-decoration: underline;
+}
+
+.register-card--success {
+  text-align: center;
+}
+
+.register-success-msg {
+  color: var(--text-muted);
+  margin: 0 0 1.25rem;
+  font-size: 0.95rem;
+}
+
+.register-login-btn {
+  display: inline-block;
+  padding: 0.7rem 1.5rem;
+  background: var(--primary);
+  color: var(--button-text);
+  text-decoration: none;
+  border-radius: 999px;
+  font-weight: 600;
+  box-shadow: 0 10px 25px rgba(0, 167, 111, 0.25);
+}
+
+.register-login-btn:hover {
+  background: var(--primary-dark);
+}

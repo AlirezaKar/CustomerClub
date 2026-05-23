@@ -1,0 +1,7 @@
+# Monorepo convenience — installs dependencies for both Django backends.
+# Production: install only the app you deploy:
+#   Django_React/backend/requirements.txt           (kiosk)
+#   Django_React_management/backend/requirements.txt (management)
+
+-r Django_React/backend/requirements.txt
+-r Django_React_management/backend/requirements.txt

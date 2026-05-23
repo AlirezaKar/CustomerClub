@@ -1,0 +1,4 @@
+# Dependencies for the NFC bridge script (nfc_bridge.py).
+# Install with: pip install -r requirements-nfc.txt
+pyserial>=3.5
+requests>=2.28.0

@@ -1,0 +1,1963 @@
+[
+{
+  "model": "sessions.session",
+  "pk": "0wry2kt098y33un6w38hab3yu3wys0zr",
+  "fields": {
+    "session_data": ".eJxVjDkOwjAQAP_iGlnrrE9K-rzBWh_BAWRLcVIh_o4spYB2ZjRv5unYiz963vya2JUJdvllgeIz1yHSg-q98djqvq2Bj4SftvO5pfy6ne3foFAvYwvOKTRJGgOwBAkZbNAxpAzRmsWgFFoZh5PQiqxCQhcDkJwIJSQg9vkCtvM2zg:1wPgBx:Gu9yqybJB3_NtkAszBNPZ5FnO9KmDfL8OKE99H9oNVA",
+    "expire_date": "2026-06-03T12:38:29.255Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "2f48mx1ar3icfkptb1xjymexppnb4735",
+  "fields": {
+    "session_data": ".eJxVjDkOwjAQAP_iGlnrrE9K-rzBWh_BAWRLcVIh_o4spYB2ZjRv5unYiz963vya2JUJdvllgeIz1yHSg-q98djqvq2Bj4SftvO5pfy6ne3foFAvYwvOKTRJGgOwBAkZbNAxpAzRmsWgFFoZh5PQiqxCQhcDkJwIJSQg9vkCtvM2zg:1wPg0q:iLNOWLeNj-a6_S4pX9azHmxtzpqv4WVjl0g_KsTwCs8",
+    "expire_date": "2026-06-03T12:27:00.796Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "2hh46ibb4n2521xm71xm41t3mdqtlez1",
+  "fields": {
+    "session_data": ".eJxVjDkOwjAQAP_iGlnrrE9K-rzBWh_BAWRLcVIh_o4spYB2ZjRv5unYiz963vya2JUJdvllgeIz1yHSg-q98djqvq2Bj4SftvO5pfy6ne3foFAvYwvOKTRJGgOwBAkZbNAxpAzRmsWgFFoZh5PQiqxCQhcDkJwIJSQg9vkCtvM2zg:1wPgC0:AgBW1FaF3f1WCfSEbtwxQH_ALiqq6pcUP75eW4fM4GU",
+    "expire_date": "2026-06-03T12:38:32.785Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "8i27m9elgabxdg1lbzhdple8xxu9v3h2",
+  "fields": {
+    "session_data": ".eJxVjDkOwjAQAP_iGlnrrE9K-rzBWh_BAWRLcVIh_o4spYB2ZjRv5unYiz963vya2JUJdvllgeIz1yHSg-q98djqvq2Bj4SftvO5pfy6ne3foFAvYwvOKTRJGgOwBAkZbNAxpAzRmsWgFFoZh5PQiqxCQhcDkJwIJSQg9vkCtvM2zg:1wOATD:mWS0PPlBC87yx0Jh_SEJONa0TuqQqlgGd9eaBHx4bA8",
+    "expire_date": "2026-05-30T08:34:03.677Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ab3jt8c7n1ry7n9ubek7t0ku7cv9y3oi",
+  "fields": {
+    "session_data": ".eJxVjDkOwjAQAP_iGlnrrE9K-rzBWh_BAWRLcVIh_o4spYB2ZjRv5unYiz963vya2JUJdvllgeIz1yHSg-q98djqvq2Bj4SftvO5pfy6ne3foFAvYwvOKTRJGgOwBAkZbNAxpAzRmsWgFFoZh5PQiqxCQhcDkJwIJSQg9vkCtvM2zg:1wPMCG:yIr1XIKLBy4aBf1wW20ZZA_L_DMRDZZhOBk4Gt1nPe4",
+    "expire_date": "2026-06-02T15:17:28.886Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "dkii8xaqtkpyfkirym033sk52kwfbp0p",
+  "fields": {
+    "session_data": ".eJxVjDkOwjAQAP_iGlnrrE9K-rzBWh_BAWRLcVIh_o4spYB2ZjRv5unYiz963vya2JUJdvllgeIz1yHSg-q98djqvq2Bj4SftvO5pfy6ne3foFAvYwvOKTRJGgOwBAkZbNAxpAzRmsWgFFoZh5PQiqxCQhcDkJwIJSQg9vkCtvM2zg:1wQ1cb:zv48TLXVnh8YmPBcc90yjYHqjz2P747oUMkRbcSISys",
+    "expire_date": "2026-06-04T11:31:25.758Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "f921qvnri3ld6lqfrh7zeu582hvj9rwt",
+  "fields": {
+    "session_data": ".eJxVjDkOwjAQAP_iGlnrrE9K-rzBWh_BAWRLcVIh_o4spYB2ZjRv5unYiz963vya2JUJdvllgeIz1yHSg-q98djqvq2Bj4SftvO5pfy6ne3foFAvYwvOKTRJGgOwBAkZbNAxpAzRmsWgFFoZh5PQiqxCQhcDkJwIJSQg9vkCtvM2zg:1wQ3Ht:s1T0tNSOyAWI_uhpVyiNItXMgGaLppapaQMs2x5kHyM",
+    "expire_date": "2026-06-04T13:18:09.832Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "g91xoijao9v2g8ihpwybp3ssfzhs287b",
+  "fields": {
+    "session_data": ".eJxVjDkOwjAQAP_iGlnrrE9K-rzBWh_BAWRLcVIh_o4spYB2ZjRv5unYiz963vya2JUJdvllgeIz1yHSg-q98djqvq2Bj4SftvO5pfy6ne3foFAvYwvOKTRJGgOwBAkZbNAxpAzRmsWgFFoZh5PQiqxCQhcDkJwIJSQg9vkCtvM2zg:1wPMb4:Kg4ZnpbVyV0FSBGq91qostLZLKUImyL6jTQh7f3dIMo",
+    "expire_date": "2026-06-02T15:43:06.570Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "i4y6ce1sh6ye7cseje289t8lybpzp270",
+  "fields": {
+    "session_data": ".eJxVjDkOwjAQAP_iGlnrrE9K-rzBWh_BAWRLcVIh_o4spYB2ZjRv5unYiz963vya2JUJdvllgeIz1yHSg-q98djqvq2Bj4SftvO5pfy6ne3foFAvYwvOKTRJGgOwBAkZbNAxpAzRmsWgFFoZh5PQiqxCQhcDkJwIJSQg9vkCtvM2zg:1wPNfp:6tst0IovD8sIZdmV4u3W5rM1uYOUqmzmq1RSsZSs-oc",
+    "expire_date": "2026-06-02T16:52:05.260Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "i7wyobnm0k1pd0g1oijd01rqynj34qau",
+  "fields": {
+    "session_data": ".eJxVjDkOwjAQAP_iGlnrrE9K-rzBWh_BAWRLcVIh_o4spYB2ZjRv5unYiz963vya2JUJdvllgeIz1yHSg-q98djqvq2Bj4SftvO5pfy6ne3foFAvYwvOKTRJGgOwBAkZbNAxpAzRmsWgFFoZh5PQiqxCQhcDkJwIJSQg9vkCtvM2zg:1wOAZ6:29tFrWa0qWmHzdqBFrYJlIh027zC_7cOLnfcTGXiy9w",
+    "expire_date": "2026-05-30T08:40:08.690Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "q7iegbsr7s2urrhvjcfc7rawssc0k5t4",
+  "fields": {
+    "session_data": ".eJxVjDkOwjAQAP_iGlnrrE9K-rzBWh_BAWRLcVIh_o4spYB2ZjRv5unYiz963vya2JUJdvllgeIz1yHSg-q98djqvq2Bj4SftvO5pfy6ne3foFAvYwvOKTRJGgOwBAkZbNAxpAzRmsWgFFoZh5PQiqxCQhcDkJwIJSQg9vkCtvM2zg:1wOAar:deCimhrE2QBVDc0_1jHpd5ZMRMh7KP3SMZqy-bdFBgU",
+    "expire_date": "2026-05-30T08:41:57.340Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "qmj2vngcdtk0vxquf0ah447ol9em29ch",
+  "fields": {
+    "session_data": ".eJxVjDkOwjAQAP_iGlnrrE9K-rzBWh_BAWRLcVIh_o4spYB2ZjRv5unYiz963vya2JUJdvllgeIz1yHSg-q98djqvq2Bj4SftvO5pfy6ne3foFAvYwvOKTRJGgOwBAkZbNAxpAzRmsWgFFoZh5PQiqxCQhcDkJwIJSQg9vkCtvM2zg:1wPNfs:B6h-BXtHib_a1dOJoBPvaK8oDohK9mDq30evDlhHODg",
+    "expire_date": "2026-06-02T16:52:08.035Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "rufft11bauobx0u4niqe3buz1z7azp42",
+  "fields": {
+    "session_data": ".eJxVjDkOwjAQAP_iGlnrrE9K-rzBWh_BAWRLcVIh_o4spYB2ZjRv5unYiz963vya2JUJdvllgeIz1yHSg-q98djqvq2Bj4SftvO5pfy6ne3foFAvYwvOKTRJGgOwBAkZbNAxpAzRmsWgFFoZh5PQiqxCQhcDkJwIJSQg9vkCtvM2zg:1wOBRH:A9_xfoZh-V7YiWZTeDIUxswlvF26DH8TPR8VCwFjCnw",
+    "expire_date": "2026-05-30T09:36:07.470Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "v0u99cr4n861sdlyt67kszozwjw7ajs3",
+  "fields": {
+    "session_data": ".eJxVjDkOwjAQAP_iGlnrrE9K-rzBWh_BAWRLcVIh_o4spYB2ZjRv5unYiz963vya2JUJdvllgeIz1yHSg-q98djqvq2Bj4SftvO5pfy6ne3foFAvYwvOKTRJGgOwBAkZbNAxpAzRmsWgFFoZh5PQiqxCQhcDkJwIJSQg9vkCtvM2zg:1wNcJ3:CY8ngYgf-Q1LaORF4K4v9rfshQqYUZlbszDkJAKmuOY",
+    "expire_date": "2026-05-28T20:05:17.094Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "v23vvbt1diukzf1adysp4uub1h5c99mk",
+  "fields": {
+    "session_data": ".eJxVjDkOwjAQAP_iGlnrrE9K-rzBWh_BAWRLcVIh_o4spYB2ZjRv5unYiz963vya2JUJdvllgeIz1yHSg-q98djqvq2Bj4SftvO5pfy6ne3foFAvYwvOKTRJGgOwBAkZbNAxpAzRmsWgFFoZh5PQiqxCQhcDkJwIJSQg9vkCtvM2zg:1wOB6I:U1YoRjmIzDVVn-shRG7CImbz63779OTimrceI3h8xTU",
+    "expire_date": "2026-05-30T09:14:26.106Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "wp3bbdcrho7g2jq1f4f36o1tacqgihfa",
+  "fields": {
+    "session_data": ".eJxVjDkOwjAQAP_iGlnrrE9K-rzBWh_BAWRLcVIh_o4spYB2ZjRv5unYiz963vya2JUJdvllgeIz1yHSg-q98djqvq2Bj4SftvO5pfy6ne3foFAvYwvOKTRJGgOwBAkZbNAxpAzRmsWgFFoZh5PQiqxCQhcDkJwIJSQg9vkCtvM2zg:1wPgLt:B8n-qVnVxawWLNe9NHTaHMWL-yhZCEzmHhw9QRt0tYk",
+    "expire_date": "2026-06-03T12:48:45.894Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "y0x9xez17pjnws49e1a9egljyzqp0c1p",
+  "fields": {
+    "session_data": ".eJxVjDkOwjAQAP_iGlnrrE9K-rzBWh_BAWRLcVIh_o4spYB2ZjRv5unYiz963vya2JUJdvllgeIz1yHSg-q98djqvq2Bj4SftvO5pfy6ne3foFAvYwvOKTRJGgOwBAkZbNAxpAzRmsWgFFoZh5PQiqxCQhcDkJwIJSQg9vkCtvM2zg:1wPMCG:yIr1XIKLBy4aBf1wW20ZZA_L_DMRDZZhOBk4Gt1nPe4",
+    "expire_date": "2026-06-02T15:17:28.244Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "yyrbrhoeoj4alkyprq18qgybik9ugmt8",
+  "fields": {
+    "session_data": ".eJxVjDkOwjAQAP_iGlnrrE9K-rzBWh_BAWRLcVIh_o4spYB2ZjRv5unYiz963vya2JUJdvllgeIz1yHSg-q98djqvq2Bj4SftvO5pfy6ne3foFAvYwvOKTRJGgOwBAkZbNAxpAzRmsWgFFoZh5PQiqxCQhcDkJwIJSQg9vkCtvM2zg:1wPKzA:gqx_rZk4rBZdePGQ4scvmvKy8KFDYfIPYcqW2aoEMU4",
+    "expire_date": "2026-06-02T13:59:52.095Z"
+  }
+},
+{
+  "model": "module_account.user",
+  "fields": {
+    "password": "pbkdf2_sha256$720000$Bd66ODtnCzoHlBw5gr4TOA$cab61KVJZpWUqGf+1Hg4E8dwbtFATpCCjc2LLX0mfqU=",
+    "last_login": "2026-05-21T13:18:09.736Z",
+    "is_superuser": true,
+    "username": "aras",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2026-05-14T20:04:26Z",
+    "role": "shop_manager",
+    "phone_number": "0912345789",
+    "age": null,
+    "gender": null,
+    "score": 0,
+    "card_uid": null,
+    "profile_picture": "",
+    "phone_number_verification_code": 147068,
+    "phone_number_verification_code_last_change": "2026-05-14T20:04:27.677Z",
+    "phone_number_verification_code_last_send": "2026-05-14T20:04:27.677Z",
+    "groups": [],
+    "user_permissions": [
+      [
+        "can_manage_assigned_shops",
+        "module_shop",
+        "shop"
+      ]
+    ]
+  }
+},
+{
+  "model": "module_account.user",
+  "fields": {
+    "password": "",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "09931328263",
+    "first_name": "Amirali",
+    "last_name": "Afrashi",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-05-20T11:44:20Z",
+    "role": "end_user",
+    "phone_number": "09931328263",
+    "age": 20,
+    "gender": "male",
+    "score": 0,
+    "card_uid": "d450eacd",
+    "profile_picture": "",
+    "phone_number_verification_code": null,
+    "phone_number_verification_code_last_change": null,
+    "phone_number_verification_code_last_send": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "module_account.user",
+  "fields": {
+    "password": "pbkdf2_sha256$720000$XxjujFK43dcOdEtezWKSLh$fpYT4nQmCUBztggJTCj2ne9HAEXno7wfbT/a/oo7j8k=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "shop1",
+    "first_name": "admin",
+    "last_name": "admin",
+    "email": "name@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-05-21T11:33:24.174Z",
+    "role": "shop_manager",
+    "phone_number": "09122136546",
+    "age": 32,
+    "gender": "male",
+    "score": 0,
+    "card_uid": null,
+    "profile_picture": "profile_pictures/users/14/f524f06cf7c54097be3030de6ffbee2d.webp",
+    "phone_number_verification_code": null,
+    "phone_number_verification_code_last_change": null,
+    "phone_number_verification_code_last_send": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "module_account.user",
+  "fields": {
+    "password": "pbkdf2_sha256$720000$HqkcObRXph3YjAYTPYtUzW$w53B20X1HDsjf2SkY7pMBJBoY1FbD1bDYHu443Fc160=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "seller1",
+    "first_name": "user1",
+    "last_name": "user1",
+    "email": "name2@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-05-21T11:43:47.704Z",
+    "role": "branch_manager",
+    "phone_number": "09468796463",
+    "age": null,
+    "gender": null,
+    "score": 0,
+    "card_uid": null,
+    "profile_picture": "",
+    "phone_number_verification_code": null,
+    "phone_number_verification_code_last_change": null,
+    "phone_number_verification_code_last_send": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "module_account.user",
+  "fields": {
+    "password": "pbkdf2_sha256$720000$T0DI8WqPsZusT0N4TJMCvD$r3qAY1o4fsYwIwyokVlasL9+Gzb0xCSvwbiliJGR18M=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "allseller",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-05-21T13:06:23.948Z",
+    "role": "branch_manager",
+    "phone_number": "09887987987",
+    "age": null,
+    "gender": null,
+    "score": 0,
+    "card_uid": null,
+    "profile_picture": "",
+    "phone_number_verification_code": null,
+    "phone_number_verification_code_last_change": null,
+    "phone_number_verification_code_last_send": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "module_account.user",
+  "fields": {
+    "password": "",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "09106165392",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-05-21T13:49:06Z",
+    "role": "end_user",
+    "phone_number": "09106165392",
+    "age": 20,
+    "gender": "male",
+    "score": 798,
+    "card_uid": "25c26d3d3006ebddfa9c0836f354507c7db7735cd9cc7751347388ee0247bc36",
+    "profile_picture": "",
+    "phone_number_verification_code": null,
+    "phone_number_verification_code_last_change": null,
+    "phone_number_verification_code_last_send": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "module_account.shopmanager",
+  "fields": {
+    "user_ptr": [
+      "aras"
+    ]
+  }
+},
+{
+  "model": "module_account.shopmanager",
+  "fields": {
+    "user_ptr": [
+      "shop1"
+    ]
+  }
+},
+{
+  "model": "module_account.branchmanager",
+  "fields": {
+    "user_ptr": [
+      "seller1"
+    ],
+    "created_for_shop": 4,
+    "managed_shops_all_branches": [],
+    "allowed_branches": [
+      15,
+      12
+    ]
+  }
+},
+{
+  "model": "module_account.branchmanager",
+  "fields": {
+    "user_ptr": [
+      "allseller"
+    ],
+    "created_for_shop": 4,
+    "managed_shops_all_branches": [
+      4
+    ],
+    "allowed_branches": []
+  }
+},
+{
+  "model": "module_account.enduser",
+  "fields": {
+    "user_ptr": [
+      "09931328263"
+    ]
+  }
+},
+{
+  "model": "module_account.enduser",
+  "fields": {
+    "user_ptr": [
+      "09106165392"
+    ]
+  }
+},
+{
+  "model": "module_shop.shop",
+  "pk": 4,
+  "fields": {
+    "name": "کلانا (1)",
+    "manager": [
+      "shop1"
+    ],
+    "managed_by": []
+  }
+},
+{
+  "model": "module_shop.branch",
+  "pk": 11,
+  "fields": {
+    "shop": 4,
+    "name": "صادقیه",
+    "is_active": true
+  }
+},
+{
+  "model": "module_shop.branch",
+  "pk": 12,
+  "fields": {
+    "shop": 4,
+    "name": "سعادت اباد",
+    "is_active": true
+  }
+},
+{
+  "model": "module_shop.branch",
+  "pk": 13,
+  "fields": {
+    "shop": 4,
+    "name": "ونک",
+    "is_active": true
+  }
+},
+{
+  "model": "module_shop.branch",
+  "pk": 14,
+  "fields": {
+    "shop": 4,
+    "name": "منیریه",
+    "is_active": true
+  }
+},
+{
+  "model": "module_shop.branch",
+  "pk": 15,
+  "fields": {
+    "shop": 4,
+    "name": "تجریش",
+    "is_active": true
+  }
+},
+{
+  "model": "module_shop.score",
+  "pk": 5,
+  "fields": {
+    "price_for_score": 100000,
+    "score_for_purchase": 1,
+    "shop": 4
+  }
+},
+{
+  "model": "module_product.category",
+  "pk": 6,
+  "fields": {
+    "shop": 4,
+    "branch": 15,
+    "title": "رپ",
+    "description": null,
+    "sort_order": 0,
+    "is_active": true
+  }
+},
+{
+  "model": "module_product.category",
+  "pk": 7,
+  "fields": {
+    "shop": 4,
+    "branch": 12,
+    "title": "پنینی",
+    "description": null,
+    "sort_order": 0,
+    "is_active": true
+  }
+},
+{
+  "model": "module_product.category",
+  "pk": 8,
+  "fields": {
+    "shop": 4,
+    "branch": 15,
+    "title": "پات",
+    "description": null,
+    "sort_order": 0,
+    "is_active": true
+  }
+},
+{
+  "model": "module_product.category",
+  "pk": 9,
+  "fields": {
+    "shop": 4,
+    "branch": 14,
+    "title": "نوشیدنی",
+    "description": null,
+    "sort_order": 0,
+    "is_active": true
+  }
+},
+{
+  "model": "module_product.category",
+  "pk": 10,
+  "fields": {
+    "shop": 4,
+    "branch": 14,
+    "title": "لبنیات",
+    "description": null,
+    "sort_order": 0,
+    "is_active": true
+  }
+},
+{
+  "model": "module_product.product",
+  "pk": 10,
+  "fields": {
+    "shop": 4,
+    "branch": 15,
+    "category": 6,
+    "title": "رپ گوشت",
+    "second_id": 1,
+    "price": 250000,
+    "score": 100,
+    "image": "module_product/products/10/رپ_گوشت.webp",
+    "is_active": true,
+    "is_offerable": true
+  }
+},
+{
+  "model": "module_product.product",
+  "pk": 11,
+  "fields": {
+    "shop": 4,
+    "branch": 12,
+    "category": 7,
+    "title": "پنینی چند غله مرغ دودی و سس پستو",
+    "second_id": 1,
+    "price": 210000,
+    "score": 102,
+    "image": "module_product/products/11/پنینی_چند_غله.webp",
+    "is_active": true,
+    "is_offerable": true
+  }
+},
+{
+  "model": "module_product.product",
+  "pk": 12,
+  "fields": {
+    "shop": 4,
+    "branch": 15,
+    "category": 8,
+    "title": "پات کلم بروکلی و کرفس",
+    "second_id": 3,
+    "price": 80000,
+    "score": 50,
+    "image": "module_product/products/12/پات_کلم_بروکلی_و_کرفس.webp",
+    "is_active": false,
+    "is_offerable": false
+  }
+},
+{
+  "model": "module_product.product",
+  "pk": 13,
+  "fields": {
+    "shop": 4,
+    "branch": 14,
+    "category": 9,
+    "title": "اسموتی هندوانه",
+    "second_id": 6,
+    "price": 70000,
+    "score": 30,
+    "image": "module_product/products/13/اسموتی_هندوانه.webp",
+    "is_active": true,
+    "is_offerable": true
+  }
+},
+{
+  "model": "module_product.product",
+  "pk": 14,
+  "fields": {
+    "shop": 4,
+    "branch": 13,
+    "category": null,
+    "title": "کروسان بوقلمون",
+    "second_id": 11,
+    "price": 150000,
+    "score": 75,
+    "image": "module_product/products/14/کروسان_بوقلمون.webp",
+    "is_active": false,
+    "is_offerable": true
+  }
+},
+{
+  "model": "module_product.product",
+  "pk": 15,
+  "fields": {
+    "shop": 4,
+    "branch": 11,
+    "category": 10,
+    "title": "شیر",
+    "second_id": 12,
+    "price": 40000,
+    "score": 20,
+    "image": "module_product/products/15/adult.webp",
+    "is_active": true,
+    "is_offerable": true
+  }
+},
+{
+  "model": "module_product.product",
+  "pk": 16,
+  "fields": {
+    "shop": 4,
+    "branch": 14,
+    "category": 10,
+    "title": "پنیر",
+    "second_id": 5,
+    "price": 25000,
+    "score": 10,
+    "image": "module_product/products/16/airplane.webp",
+    "is_active": true,
+    "is_offerable": true
+  }
+},
+{
+  "model": "module_product.product",
+  "pk": 17,
+  "fields": {
+    "shop": 4,
+    "branch": 11,
+    "category": 10,
+    "title": "خامه",
+    "second_id": 6,
+    "price": 30000,
+    "score": 30,
+    "image": "module_product/products/17/american_samoa.webp",
+    "is_active": true,
+    "is_offerable": true
+  }
+},
+{
+  "model": "module_product.userspecialoffer",
+  "pk": 4,
+  "fields": {
+    "user": [
+      "09106165392"
+    ],
+    "product": 10,
+    "offer_rate": 20
+  }
+},
+{
+  "model": "module_product.userspecialoffer",
+  "pk": 5,
+  "fields": {
+    "user": [
+      "09106165392"
+    ],
+    "product": 11,
+    "offer_rate": 15
+  }
+},
+{
+  "model": "module_product.userspecialoffer",
+  "pk": 6,
+  "fields": {
+    "user": [
+      "09106165392"
+    ],
+    "product": 13,
+    "offer_rate": 60
+  }
+},
+{
+  "model": "module_product.specialoffertransaction",
+  "pk": 6,
+  "fields": {
+    "user": [
+      "09106165392"
+    ],
+    "delta": -102,
+    "reason": "special_offer",
+    "product": 11,
+    "created_at": "2026-05-21T13:56:06.704Z"
+  }
+},
+{
+  "model": "module_product.specialoffertransaction",
+  "pk": 7,
+  "fields": {
+    "user": [
+      "09106165392"
+    ],
+    "delta": -100,
+    "reason": "special_offer",
+    "product": 10,
+    "created_at": "2026-05-21T13:56:07.506Z"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2026-05-14T20:11:36.872Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "user"
+    ],
+    "object_id": "2",
+    "object_repr": "09213213213",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2026-05-14T20:11:37.251Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "user"
+    ],
+    "object_id": "3",
+    "object_repr": "09465465465",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2026-05-16T08:34:20.338Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_product",
+      "product"
+    ],
+    "object_id": "2",
+    "object_repr": "کیک خامه ای",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is offerable\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2026-05-16T08:35:36.542Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_product",
+      "product"
+    ],
+    "object_id": "4",
+    "object_repr": "هندونه",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is offerable\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2026-05-16T08:35:40.606Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_product",
+      "product"
+    ],
+    "object_id": "3",
+    "object_repr": "کیک علی",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is offerable\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2026-05-16T08:36:23.933Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_product",
+      "product"
+    ],
+    "object_id": "3",
+    "object_repr": "کیک علی",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is offerable\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2026-05-16T08:36:31.105Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_product",
+      "product"
+    ],
+    "object_id": "4",
+    "object_repr": "هندونه",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is offerable\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2026-05-16T08:36:37.292Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_product",
+      "product"
+    ],
+    "object_id": "3",
+    "object_repr": "کیک علی",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is offerable\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2026-05-19T15:05:37.687Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "user"
+    ],
+    "object_id": "6",
+    "object_repr": "09313546546",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2026-05-19T15:24:50.576Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "branchmanager"
+    ],
+    "object_id": "5",
+    "object_repr": "09684654654",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2026-05-19T15:43:46.747Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "user"
+    ],
+    "object_id": "4",
+    "object_repr": "09265163516",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Phone number\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2026-05-19T15:44:01.130Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "user"
+    ],
+    "object_id": "4",
+    "object_repr": "09265163516",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Username\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2026-05-19T15:44:38.682Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "enduser"
+    ],
+    "object_id": "9",
+    "object_repr": "09106165392",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2026-05-19T15:47:13.083Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "user"
+    ],
+    "object_id": "10",
+    "object_repr": "09388323927",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2026-05-19T16:14:58.632Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_product",
+      "userspecialoffer"
+    ],
+    "object_id": "1",
+    "object_repr": "9 - کیک",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2026-05-19T16:15:05.617Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_product",
+      "userspecialoffer"
+    ],
+    "object_id": "2",
+    "object_repr": "9 - َیر",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2026-05-19T16:18:54.835Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "user"
+    ],
+    "object_id": "9",
+    "object_repr": "09106165392",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Score\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2026-05-19T16:20:01.371Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_product",
+      "customerproductoffer"
+    ],
+    "object_id": "1",
+    "object_repr": "09106165392 → کیک (50%)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2026-05-19T16:52:45.076Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_product",
+      "product"
+    ],
+    "object_id": "4",
+    "object_repr": "هندونه",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is active\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2026-05-20T10:12:38.876Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_shop",
+      "shop"
+    ],
+    "object_id": "2",
+    "object_repr": "alireza's shop",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2026-05-20T10:12:39.070Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_shop",
+      "shop"
+    ],
+    "object_id": "1",
+    "object_repr": "KNTU",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2026-05-20T11:42:13.843Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "enduser"
+    ],
+    "object_id": "11",
+    "object_repr": "09388323927",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2026-05-20T11:46:04.952Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "enduser"
+    ],
+    "object_id": "13",
+    "object_repr": "09388323927",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2026-05-20T12:27:41.042Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "enduser"
+    ],
+    "object_id": "9",
+    "object_repr": "09388323927",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Username\", \"Phone number\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2026-05-20T12:47:49.712Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "shopmanager"
+    ],
+    "object_id": "7",
+    "object_repr": "09654646513",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Role\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2026-05-20T12:47:55.084Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "shopmanager"
+    ],
+    "object_id": "7",
+    "object_repr": "09654646513",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Username\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2026-05-21T11:31:38.232Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_shop",
+      "shop"
+    ],
+    "object_id": "3",
+    "object_repr": "کلانا",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2026-05-21T11:31:47.407Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_product",
+      "specialoffertransaction"
+    ],
+    "object_id": "4",
+    "object_repr": "9 - - - 2026-05-20 12:08:50.542375+00:00",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2026-05-21T11:31:48.206Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_product",
+      "specialoffertransaction"
+    ],
+    "object_id": "3",
+    "object_repr": "9 - - - 2026-05-20 12:08:50.539126+00:00",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2026-05-21T11:31:48.312Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_product",
+      "specialoffertransaction"
+    ],
+    "object_id": "2",
+    "object_repr": "9 - - - 2026-05-20 09:59:45.007667+00:00",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2026-05-21T11:31:48.409Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_product",
+      "specialoffertransaction"
+    ],
+    "object_id": "1",
+    "object_repr": "9 - - - 2026-05-20 09:41:50.277065+00:00",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2026-05-21T11:32:14.531Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "user"
+    ],
+    "object_id": "13",
+    "object_repr": "09106165392",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2026-05-21T11:32:15.006Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "user"
+    ],
+    "object_id": "4",
+    "object_repr": "09265163516",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2026-05-21T11:32:15.114Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "user"
+    ],
+    "object_id": "9",
+    "object_repr": "09388323927",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2026-05-21T11:32:15.242Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "user"
+    ],
+    "object_id": "8",
+    "object_repr": "096546543.2",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2026-05-21T11:32:15.338Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "user"
+    ],
+    "object_id": "7",
+    "object_repr": "09654646513",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2026-05-21T11:32:28.659Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "user"
+    ],
+    "object_id": "12",
+    "object_repr": "09931328263",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2026-05-21T11:40:55.603Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "shopmanager"
+    ],
+    "object_id": "15",
+    "object_repr": "09546465465",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2026-05-21T11:46:14.382Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_shop",
+      "shop"
+    ],
+    "object_id": "5",
+    "object_repr": "shop",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2026-05-21T12:11:56.784Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "user"
+    ],
+    "object_id": "18",
+    "object_repr": "09132465465",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Role\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2026-05-21T12:14:39.366Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "user"
+    ],
+    "object_id": "18",
+    "object_repr": "09132465465",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2026-05-21T12:26:35.819Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "user"
+    ],
+    "object_id": "20",
+    "object_repr": "09654654654",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2026-05-21T12:27:35.456Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "user"
+    ],
+    "object_id": "19",
+    "object_repr": "09465165465",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2026-05-21T12:34:58.948Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "user"
+    ],
+    "object_id": "21",
+    "object_repr": "09365465465",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2026-05-21T12:36:23.859Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "user"
+    ],
+    "object_id": "22",
+    "object_repr": "09465463565",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2026-05-21T12:40:23.975Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_shop",
+      "shop"
+    ],
+    "object_id": "4",
+    "object_repr": "کلانا (1)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Manager\", \"Managed by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2026-05-21T12:43:44.654Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_shop",
+      "shop"
+    ],
+    "object_id": "4",
+    "object_repr": "کلانا (1)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"score\", \"object\": \"Score object (5)\", \"fields\": [\"Price for score\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2026-05-21T12:48:14.880Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_shop",
+      "shop"
+    ],
+    "object_id": "4",
+    "object_repr": "کلانا (1)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Managed by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2026-05-21T12:49:33.746Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_shop",
+      "shop"
+    ],
+    "object_id": "4",
+    "object_repr": "کلانا (1)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Manager\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2026-05-21T12:50:09.048Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "user"
+    ],
+    "object_id": "1",
+    "object_repr": "aras",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Role\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2026-05-21T13:05:51.783Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "user"
+    ],
+    "object_id": "1",
+    "object_repr": "aras",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Role\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2026-05-21T13:06:00.323Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "user"
+    ],
+    "object_id": "17",
+    "object_repr": "allseller1",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Role\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2026-05-21T13:06:42.550Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "user"
+    ],
+    "object_id": "17",
+    "object_repr": "allseller1",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2026-05-21T13:07:10.350Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_shop",
+      "shop"
+    ],
+    "object_id": "4",
+    "object_repr": "کلانا (1)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Managed by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2026-05-21T13:16:43.504Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_shop",
+      "shop"
+    ],
+    "object_id": "4",
+    "object_repr": "کلانا (1)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Managed by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2026-05-21T13:19:38.008Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_product",
+      "userspecialoffer"
+    ],
+    "object_id": "3",
+    "object_repr": "24 - پنینی چند غله مرغ دودی و سس پستو",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2026-05-21T13:24:16.065Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "enduser"
+    ],
+    "object_id": "24",
+    "object_repr": "09106165392",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Score\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2026-05-21T13:29:23.518Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "enduser"
+    ],
+    "object_id": "26",
+    "object_repr": "09123456789",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2026-05-21T13:29:52.970Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "enduser"
+    ],
+    "object_id": "24",
+    "object_repr": "09106165392",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2026-05-21T13:44:02.169Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "enduser"
+    ],
+    "object_id": "25",
+    "object_repr": "09388323927",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2026-05-21T13:48:48.704Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "enduser"
+    ],
+    "object_id": "27",
+    "object_repr": "09106165392",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2026-05-21T13:51:18.646Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_product",
+      "userspecialoffer"
+    ],
+    "object_id": "4",
+    "object_repr": "28 - رپ گوشت",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2026-05-21T13:51:24.165Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_product",
+      "userspecialoffer"
+    ],
+    "object_id": "5",
+    "object_repr": "28 - پنینی چند غله مرغ دودی و سس پستو",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2026-05-21T13:51:33.627Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_product",
+      "userspecialoffer"
+    ],
+    "object_id": "6",
+    "object_repr": "28 - اسموتی هندوانه",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2026-05-21T13:51:38.660Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_product",
+      "userspecialoffer"
+    ],
+    "object_id": "5",
+    "object_repr": "28 - پنینی چند غله مرغ دودی و سس پستو",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Offer rate\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2026-05-21T13:51:47.911Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_product",
+      "userspecialoffer"
+    ],
+    "object_id": "7",
+    "object_repr": "29 - شیر",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2026-05-21T13:51:55.659Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_product",
+      "userspecialoffer"
+    ],
+    "object_id": "8",
+    "object_repr": "29 - پنیر",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 68,
+  "fields": {
+    "action_time": "2026-05-21T13:52:01.894Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_product",
+      "userspecialoffer"
+    ],
+    "object_id": "9",
+    "object_repr": "29 - خامه",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 69,
+  "fields": {
+    "action_time": "2026-05-21T13:54:18.150Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "enduser"
+    ],
+    "object_id": "28",
+    "object_repr": "09106165392",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Score\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 70,
+  "fields": {
+    "action_time": "2026-05-21T13:54:27.207Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "enduser"
+    ],
+    "object_id": "29",
+    "object_repr": "09388323927",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Score\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 71,
+  "fields": {
+    "action_time": "2026-05-21T13:55:52.381Z",
+    "user": [
+      "aras"
+    ],
+    "content_type": [
+      "module_account",
+      "enduser"
+    ],
+    "object_id": "29",
+    "object_repr": "09388323927",
+    "action_flag": 3,
+    "change_message": ""
+  }
+}
+]

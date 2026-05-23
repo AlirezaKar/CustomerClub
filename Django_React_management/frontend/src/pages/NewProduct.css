@@ -1,0 +1,145 @@
+.new-product-page {
+  width: 100%;
+  max-width: 520px;
+  min-height: calc(100vh - 60px);
+  padding: 1.5rem;
+  box-sizing: border-box;
+}
+
+.new-product-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.new-product-header h1 {
+  margin: 0;
+  font-size: 1.75rem;
+}
+
+.btn-secondary {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  color: var(--text-muted);
+  text-decoration: none;
+  border-radius: 8px;
+  border: 1px solid var(--input-border);
+}
+
+.btn-secondary:hover {
+  color: var(--text-main);
+  border-color: var(--primary);
+}
+
+.new-product-form label {
+  display: block;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+  color: var(--text-main);
+}
+
+/* Unified input & select: same box so Title and Shop look identical */
+.form-control {
+  width: 100%;
+  margin-top: 0.35rem;
+  padding: 0.6rem 0.75rem;
+  font-size: 1rem;
+  border: 1px solid var(--input-border);
+  border-radius: 8px;
+  background: var(--input-bg);
+  color: var(--text-main);
+  box-sizing: border-box;
+  display: block;
+}
+
+.new-product-form select.form-control {
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23888' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.75rem center;
+  padding-right: 2rem;
+}
+
+.form-control:focus {
+  outline: none;
+  border-color: var(--primary);
+}
+
+.new-product-form input.form-control--file {
+  padding: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.new-product-form .checkbox-label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.new-product-form .checkbox-label input {
+  width: auto;
+  margin: 0;
+}
+
+.new-product-form .form-error {
+  color: #e57373;
+  font-size: 0.9rem;
+  margin: 0 0 0.5rem;
+}
+
+.new-product-form .form-actions {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 1.25rem;
+}
+
+.new-product-form .form-actions .btn-primary {
+  padding: 0.65rem 1.2rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  background: var(--primary);
+  color: var(--button-text);
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.new-product-form .form-actions .btn-primary:hover:not(:disabled) {
+  background: var(--primary-dark);
+}
+
+.new-product-form .form-actions .btn-primary:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.new-product-branch-create {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.new-product-branch-create-label {
+  font-size: 0.9rem;
+  color: var(--text-main);
+}
+
+.new-product-category-row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.new-product-category-add {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.new-product-category-add .form-control {
+  flex: 1 1 10rem;
+  min-width: 0;
+}

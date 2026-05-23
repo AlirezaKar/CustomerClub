@@ -1,0 +1,78 @@
+/*
+ * Management site admin layout fixes.
+ * Keeps changelist table and filter sidebar in the standard Django admin arrangement.
+ */
+
+#content-main {
+    float: none;
+    width: 100%;
+    max-width: 100%;
+}
+
+#content {
+    max-width: 100%;
+    overflow-x: auto;
+}
+
+.change-list #content-main {
+    overflow: visible;
+}
+
+#changelist {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    width: 100%;
+    max-width: 100%;
+}
+
+#changelist .changelist-form-container {
+    flex: 1 1 auto;
+    min-width: 0;
+    width: 100%;
+    max-width: 100%;
+}
+
+#changelist-form {
+    width: 100%;
+}
+
+#changelist .results,
+#changelist table {
+    width: 100%;
+    max-width: 100%;
+}
+
+#changelist-filter {
+    flex: 0 0 240px;
+    order: 2;
+    margin: 0 0 0 30px;
+    align-self: flex-start;
+    max-width: 280px;
+}
+
+.change-list .object-tools {
+    float: right;
+    margin: 0 0 12px;
+}
+
+@media (max-width: 1024px) {
+    #changelist {
+        flex-direction: column;
+    }
+
+    #changelist .changelist-form-container {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    #changelist-filter {
+        flex: 1 1 auto;
+        order: 2;
+        width: 100%;
+        max-width: 100%;
+        margin: 30px 0 0;
+    }
+}
